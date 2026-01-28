@@ -2,8 +2,8 @@
 
 ### My friends also call me _Justin_ 🏳️‍🌈. Pronouns: whatever
 
-👨‍💻 Working in the **Lichtwerkstatt (open photonics makerspace)** of the ACP Jena,\
-⚡️ studying **electronic engineering** and\
+⚡️ Studying **electrical engineering** at the EAH (university of applied sciences) Jena,\
+👨‍💻 working in the **Lichtwerkstatt (open photonics makerspace)** of the ACP Jena and\
 🖨️ running a small **3D-printing business** based in\
 📍 Jena, Thuringia, Germany.
 
